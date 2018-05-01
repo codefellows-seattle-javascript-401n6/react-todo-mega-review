@@ -1,0 +1,14 @@
+rm -rf camel/.git
+rm -rf cat/.git
+rm -rf chicken/.git
+rm -rf crow/.git
+rm -rf dog/.git
+rm -rf duck/.git
+rm -rf eagle/.git
+rm -rf elephant/.git
+rm -rf hippo/.git
+rm -rf mouse/.git
+rm -rf pig/.git
+rm -rf rat/.git
+rm -rf robin/.git
+rm -rf rooster/.git

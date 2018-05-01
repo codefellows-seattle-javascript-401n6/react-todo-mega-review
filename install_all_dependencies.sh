@@ -1,0 +1,14 @@
+cd camel/lab-camel; npm i; cd ..
+cd cat/lab-cat; npm i; cd ..
+cd chicken/lab-chicken; npm i; cd ..
+cd crow/lab-crow; npm i; cd ..
+cd dog/lab-dog; npm i; cd ..
+cd duck/lab-duck; npm i; cd ..
+cd eagle/lab-eagle; npm i; cd ..
+cd elephant/lab-elephant; npm i; cd ..
+cd hippo/lab-hippo; npm i; cd ..
+cd mouse/lab-mouse; npm i; cd ..
+cd pig/lab-pig; npm i; cd ..
+cd rat/lab-rat; npm i; cd ..
+cd robin/lab-robin; npm i; cd ..
+cd rooster/lab-rooster; npm i; cd ..
