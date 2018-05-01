@@ -1,6 +1,5 @@
 PACKAGES=`find . | grep -Rh package.json | grep -v node_mod`
 echo $PACKAGES
-exit
 
 PORT=9000
 for PACKAGE in $PACKAGES
